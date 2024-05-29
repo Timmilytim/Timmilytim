@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oluwatimilehin Odusanya</h1>
-<h3 align="center">A Junior Java Developer</h3>
+<h3 align="center">A <b>Junior Java Developer</b> with a passion for creating interactive and dynamic web applications. I love coding in various languages and continuously strive to improve my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timmilytim&label=Profile%20views&color=0e75b6&style=flat" alt="timmilytim" /> </p>
 
