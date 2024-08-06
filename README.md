@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oluwatimilehin Odusanya</h1>
 <h3 align="center">A <b>Junior Developer</b> with a passion for creating interactive and dynamic web applications. I love coding in various languages and continuously strive to improve my skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timmilytim&label=Profile%20views&color=0e75b6&style=flat" alt="timmilytim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timmilytim" alt="timmilytim" /></a> </p>
-
 - 🔭 I’m currently working on [Radar](https://github.com/Timmilytim/Radar)
 
 - 🌱 I’m currently learning **Android with Java, React and Spring boot**
@@ -42,10 +38,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <h4>Views</h4>
-  <img src="https://profile-counter.glitch.me/Timmilytim/count.svg?"  />
-</div>
 
 ###
