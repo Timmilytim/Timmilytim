@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Oluwatimilehin Odusanya</h1>
 <h3 align="center">A <b>Junior Developer</b> with a passion for creating interactive and dynamic web applications. I love coding in various languages and continuously strive to improve my skills.</h3>
 
-- 🔭 I’m currently working on [Radar](https://github.com/Timmilytim/Radar)
+<!-- - 🔭 I’m currently working on [A Private Project]()-->
 
-- 🌱 I’m currently learning **Android with Java, React and Spring boot**
+- 🌱 I’m currently learning **Android(Java) and React(Javascript)**
 
 - 🏗️ Built a small web Application on React [Cybernurture](https://github.com/Timmilytim/Cybernurture)
+
+- 🏗️ Also built a Mobile Application with Andriod [Radar](https://github.com/Timmilytim/Radar)
 
 - 🤝 Collaborated with a fellow developer on a [Language Translator](https://github.com/Timmilytim/Language-Translator)
 
