@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [A Private Project]()-->
 
-- 🌱 I’m currently learning **Android(Java) and React(Javascript)**
+- 🌱 I’m currently learning **Springboot(Java) and React(Javascript)**
 
 - 🏗️ Built a small web Application on React [Cybernurture](https://github.com/Timmilytim/Cybernurture)
 
