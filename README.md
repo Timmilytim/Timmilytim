@@ -3,11 +3,11 @@
 
 <!-- - 🔭 I’m currently working on [A Private Project]()-->
 
-- 🌱 I’m currently learning **Springboot(Java) and React(Javascript)**
+- 🌱 I’m currently learning **Springboot(Java)**
 
 - 🏗️ Built a small web Application on React [Cybernurture](https://github.com/Timmilytim/Cybernurture)
 
-- 🏗️ Also built a Mobile Application with Andriod [Radar](https://github.com/Timmilytim/Radar)
+- 🏗️ Also built a Mobile Application with Andriod(Java) [Radar](https://github.com/Timmilytim/Radar)
 
 - 🤝 Collaborated with a fellow developer on a [Language Translator](https://github.com/Timmilytim/Language-Translator)
 
