@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oluwatimilehin Odusanya</h1>
-<h3 align="center">A <b>Junior Developer</b> with a passion for creating interactive and dynamic web applications. I love coding in various languages and continuously strive to improve my skills.</h3>
+<h3 align="center">A <b>Developer</b> with a passion for creating interactive and dynamic web applications. I love coding in various languages and continuously strive to improve my skills.</h3>
 
 <!-- - 🔭 I’m currently working on [A Private Project]()-->
 
