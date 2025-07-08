@@ -7,7 +7,9 @@
 
 - 🏗️ Built a small web Application on React [Cybernurture](https://github.com/Timmilytim/Cybernurture)
 
-- 🏗️ Also built a Mobile Application with Andriod(Java) [Radar](https://github.com/Timmilytim/Radar)
+- 🏗️ Built a Mobile Application with Andriod(Java) [Radar](https://github.com/Timmilytim/Radar)
+
+- 🏗️ Also built an E-commerce Website with WordPress [Hadar's Fragrance](https://hadar.com.ng)
 
 - 🤝 Collaborated with a fellow developer on a [Language Translator](https://github.com/Timmilytim/Language-Translator)
 
