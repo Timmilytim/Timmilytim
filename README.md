@@ -11,7 +11,7 @@
 
 - 🏗️ Also built an E-commerce Websites with WordPress [Hadar's Fragrance](https://hadar.com.ng) || [G-Motec](https://g-motec.com/)
 
-- 🤝 Collaborated with my developer friends on a [Radar 2.0](https://github.com/OATheSWE/Radar-2.0)
+- 🤝 Collaborated with my developer friends on [Radar 2.0](https://github.com/OATheSWE/Radar-2.0)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Timmilytim?tab=repositories](https://github.com/Timmilytim?tab=repositories)
 
